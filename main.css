@@ -1,0 +1,98 @@
+.giveBorder{
+	border-radius: 5px;
+	border: 1px solid #0db986;
+	width: 475px;
+	position: absolute;
+	right: 0px;
+	margin: 10px;
+	padding: 15px;
+}
+
+
+.topRightHeading{
+	color: #0db986;
+	font-family: 'Orbitron';
+}
+
+#h3{
+	color: #0db986;
+	margin-top: 370px;
+	margin-left: 130px;
+	position: absolute;
+	font-family: 'Orbitron';
+}
+
+.button {
+	background: transparent;
+	border: 2px solid #0db986;
+	border-radius: 9px;
+	padding: 15px;
+	width: 295px;
+	color: #0db986;
+	margin: 10px;
+	font-size: 27px;
+	font-family: 'Orbitron';
+}
+
+.containerUnofficial{
+	position: absolute;
+	margin-top: 220px;
+	margin-left: 0px;
+}
+
+#statistics {
+	position: absolute;
+	color: #0db986;
+	margin-top: 650px;
+	font-family: 'Orbitron';
+}
+
+#customisation {
+	position: absolute;
+	color: #0db986;
+	margin-left: 170px;
+	top: 200px;
+	font-family: 'Orbitron';
+}
+
+.containButton{
+	margin: 20px;
+}
+
+
+.customText {
+	margin-top: 30px;
+}
+
+.buttonCustom {
+	background: transparent;
+	border: 2px solid #0db986;
+	border-radius: 9px;
+	padding: 15px;
+	width: 95px;
+	color: #0db986;
+	margin: 10px;
+	font-size: 17px;
+	font-family: 'Orbitron';
+}
+
+.button:hover {
+	background: #0db986;
+	color: black;
+}
+.buttonCustom:hover{
+	background: #0db986;
+	color: black;
+}
+
+#stats {
+	line-height: 79px;
+}
+
+#TaskBreak {
+	color: #0db986;
+	margin-top: 650px;
+	margin-left: 100px;
+	position: absolute;
+	font-family: 'Orbitron';
+}
